@@ -1,0 +1,6 @@
+langchain
+openai
+faiss-cpu        # For FAISS vector store (or use pinecone if needed)
+Flask            # For the API
+Flask-RESTful    # For the RESTful API (optional, depends on usage)
+requests         # For making HTTP requests (if needed)
